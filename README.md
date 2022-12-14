@@ -1,2 +1,2 @@
 # developer
-My first repo
+My first repo for app java development
